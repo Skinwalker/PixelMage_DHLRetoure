@@ -14,3 +14,7 @@ How to install:
 Open a random order page - notice the new button "Retoure" on the Top-Button-Area - click it - MAGIC!
 
 Extension tested on Magento 1.7.0.2 & 1.8.0.0
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Skinwalker/pixelmage_dhlretoure/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
