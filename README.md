@@ -13,3 +13,4 @@ How to install:
 
 Open a random order page - notice the new button "Retoure" on the Top-Button-Area - click it - MAGIC!
 
+Extension tested on Magento 1.7.0.2 & 1.8.0.0
