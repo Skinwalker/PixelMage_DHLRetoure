@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Pixelmage_DHLRetoure>
+      <version>0.0.1</version>
+    </Pixelmage_DHLRetoure>
+  </modules>
+  <global>
+    <helpers>
+      <dhlretoure>
+        <class>Pixelmage_DHLRetoure_Helper</class>
+      </dhlretoure>
+    </helpers>
+    <blocks>
+         <adminhtml>
+            <rewrite>
+                <sales_order_view>Pixelmage_DHLRetoure_Block_Adminhtml_Sales_Order_View</sales_order_view>
+            </rewrite>
+        </adminhtml>
+    </blocks>
+  </global>
+</config> 
