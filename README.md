@@ -1,6 +1,8 @@
 PixelMage_DHLRetoure
 ====================
 
+Magento Extension for the DHL Retoure Online Web Service
+
 Add a button to the Sales Order View Page which will link to the DHLRetoure Site with prefilled values for the customer.
 Vales are used from the shippingadress.
 
